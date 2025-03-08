@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 chcp 65001 >nul
 echo Rainbow text by L0st_gr34td3v
-set /p i=Текст: 
+set /p i=Text: 
 
 set "t=!i!"
 set l=0
